@@ -1,0 +1,22 @@
+{
+  "name": "ugc-ad-script-lab",
+  "version": "1.0.0",
+  "description": "From one product brief, get 10 hook-scored, shoot-ready UGC ad scripts for TikTok, Reels and Shorts — hook, pain, demo beat, CTA — ranked by hook strength, with phone-filming notes.",
+  "author": {
+    "name": "Jahirul",
+    "url": "https://cloudskillhub.com"
+  },
+  "homepage": "https://cloudskillhub.com",
+  "repository": "https://github.com/jahirulofficial0/ugc-ad-script-lab",
+  "license": "MIT",
+  "keywords": [
+    "claude-skill",
+    "ugc-ads",
+    "tiktok-marketing",
+    "video-ads",
+    "ad-scripts",
+    "ecommerce-marketing",
+    "chatgpt-gpt",
+    "gemini-gem"
+  ]
+}
